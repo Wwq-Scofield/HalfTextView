@@ -12,4 +12,4 @@ HalfTextView
 	
    xml里直接引用，setText的收使用resetText(String text)，不是setText
 
-![image](https://github.com/Wwq-Scofield/HalfTextView/blob/master/img/img.png)
+                 ![image](https://github.com/Wwq-Scofield/HalfTextView/blob/master/img/img.png)
