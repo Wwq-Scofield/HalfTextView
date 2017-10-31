@@ -1,6 +1,9 @@
 # HalfTextView
 HalfTextView
 
+最多显示两行半的textView
+
+
 使用方法：
    
 	 HalfTextView tv = (HalfTextView) findViewById(R.id.myview);
